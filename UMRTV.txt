@@ -1,4 +1,4 @@
-UMRTV,#genre#
+﻿UMRTV,#genre#
 无线新闻1(海外),https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 无线新闻2,http://111.229.84.232/yulin/tvb.php?id=1
 无线新闻3,http://9.zhxinda.xyz/newss.php?id=1
