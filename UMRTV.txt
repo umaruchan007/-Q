@@ -1,7 +1,4 @@
 UMRTV,#genre#
-dsd,mitv://ns2.hellotvvod.com:9906/84546c5f1b7140b79b63ffce337f54e3
-鳳凰香11港,p2p://fccs.word-tv.com:9906/62582991000071710f0c7b707491d2e9
-鳳凰香22港,p2p://54.39.16.152:9906/62582991000071710f0c7b707491d2e9
 无线新闻,http://9.zhxinda.xyz/newss.php?id=1
 澳门资讯1(新港IP),http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
 澳门资讯2(新港IP),http://61.244.22.4/ch5/_definst_/info_ch5.live/playlist.m3u8
