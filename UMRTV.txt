@@ -36,9 +36,11 @@ TVBS新闻7,https://epg.pm/stream/472a4d7fa23f959fa1dcb24e36ec10d6ae18d6cb906e6d
 有线新闻2(内置),http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻3(内置),http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻4(内置),https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+HOY-咨讯(内置),https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 HOY-TV(内置1),http://media.fantv.hk/m3u8/archive/channel2.m3u8
 HOY-TV(内置2),http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 HOY-TV(内置3),http://uc6.i-cable.com/live_freedirect/opentvhd001.live/playlist.m3u8
+HOY-TV(内置4),https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 HOY-TV(新港台IP),http://livetv.dnsfor.me:80/channel.9.m3u8#http://livetv.dnsfor.me/channel.9.m3u8
 翡翠台1,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡翠台2,http://23.237.10.66:16106
