@@ -22,10 +22,10 @@ TVBS新闻4,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
 新加坡8-1,https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
 新加坡8-2,https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master02.m3u8
 新加坡8-3,https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master01.m3u8
-凤凰香港1,http://198.16.64.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+凤凰香港1,https://epg.pw/stream/4e10ac6f343752fb2f3866fb753be44f1e349d924662833b1b00a74afc64322b.m3u8
 凤凰香港2,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
-凤凰香港3,https://epg.pw/stream/353dc9294211d91df1f669472b898f214fbd899b682fe31b943a4ffcfd90875b.m3u8
-凤凰香港4,https://epg.pw/stream/49377465b592ecb4105c8c5a1877db8dfcbd57e73bdf1b972ea4d1a205444f2d.m3u8
+凤凰香港3,https://epg.pw/stream/49377465b592ecb4105c8c5a1877db8dfcbd57e73bdf1b972ea4d1a205444f2d.m3u8
+凤凰香港4,https://epg.pw/stream/353dc9294211d91df1f669472b898f214fbd899b682fe31b943a4ffcfd90875b.m3u8
 凤凰资讯1,http://210.210.155.37/qwr9ew/s/s21/index.m3u8
 凤凰资讯2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰资讯3,https://ytm2.yuanhsing.cf/ctitv.m3u8
