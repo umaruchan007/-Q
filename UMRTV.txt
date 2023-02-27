@@ -22,11 +22,11 @@ TVBS新闻7,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
 新加坡8-1,https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
 新加坡8-2,https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master02.m3u8
 新加坡8-3,https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master01.m3u8
-凤凰香港1,https://epg.pw/stream/5ba1293b96233241ab32fcfc9afb319c7a81a9d5cd77340287a7c7a87a2948d2.ctv
-凤凰香港2,https://epg.pw/stream/4e10ac6f343752fb2f3866fb753be44f1e349d924662833b1b00a74afc64322b.m3u8
-凤凰香港3,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
-凤凰香港4,https://epg.pw/stream/49377465b592ecb4105c8c5a1877db8dfcbd57e73bdf1b972ea4d1a205444f2d.m3u8
-凤凰香港5,https://epg.pw/stream/353dc9294211d91df1f669472b898f214fbd899b682fe31b943a4ffcfd90875b.m3u8
+凤凰香港1,https://epg.pw/stream/66feae6e328994a4ec5c3bb906c6cd3eb5cf77f7ad26c4f9da898b22ed20fb65.m3u8
+凤凰香港2,https://epg.pw/stream/ca6fad6aa4870871c04462a5ed7a17f86490cc558e08de76e6c8703dabc262ff.m3u8
+凤凰香港3,https://epg.pw/stream/f45c638f23306d8e441bfa49b11b33aa2c45d510c3819fbf94ba4987469ea01d.m3u8
+凤凰香港4,https://epg.pw/stream/3c8bb8629ef52aa6d620981d5ea95942b2885e9d1c5c956e111ea1e60f61b8ae.m3u8
+凤凰香港5,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
 凤凰资讯1(测试),https://epg.pw/stream/9b260f8687cdb45dc85cc84eb67827ec46c13fd6644d1976a408a283699f3f7d.ctv#http://home.111818.xyz:8888/udp/239.76.253.135:9000
 凤凰资讯2,https://epg.pw/stream/37e45dc981dca776ecb0e0d0bb114be671670900e9efd05f790bf111f638dde8.m3u8
 凤凰资讯3,https://ytm2.yuanhsing.cf/ctitv.m3u8
