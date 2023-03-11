@@ -11,11 +11,11 @@ HOY-TV(内置1),http://media.fantv.hk/m3u8/archive/channel2.m3u8
 HOY-TV(内置2),http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 HOY-TV(内置3),http://uc6.i-cable.com/live_freedirect/opentvhd001.live/playlist.m3u8
 HOY-TV(内置4),https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-凤凰香港1,https://epg.pw/stream/e2a9e9de5f560d8bbf7d446e09fc0933808508461a0df4b6676e597af669db82.m3u8
-凤凰香港2,https://epg.pw/stream/80838207ed7ce14da383c3642c7ce7ea0d5be1795dfdab243251f7a021d6adab.m3u8
-凤凰香港3,https://epg.pw/stream/6059a4c448765241ef38839295d5dd02799ea4f888e247b92ba5e7ac1876ef08.m3u8
-凤凰香港4,https://epg.pw/stream/e50edfd6d07b945088c15613ea2a746bb26eea5ad0924351c1567c18d9bb2509.m3u8
-凤凰香港5,https://epg.pw/stream/ac4844393fb0c0e35e5d3a7f3029f183b866b038ea0c79474cf17172a15c7314.m3u8
+凤凰香港1(软解),https://epg.pw/stream/e2a9e9de5f560d8bbf7d446e09fc0933808508461a0df4b6676e597af669db82.m3u8
+凤凰香港2(软解),https://epg.pw/stream/e50edfd6d07b945088c15613ea2a746bb26eea5ad0924351c1567c18d9bb2509.m3u8
+凤凰香港3(软解),https://epg.pw/stream/ac4844393fb0c0e35e5d3a7f3029f183b866b038ea0c79474cf17172a15c7314.m3u8
+凤凰香港4,https://epg.pw/stream/80838207ed7ce14da383c3642c7ce7ea0d5be1795dfdab243251f7a021d6adab.m3u8
+凤凰香港5,https://epg.pw/stream/6059a4c448765241ef38839295d5dd02799ea4f888e247b92ba5e7ac1876ef08.m3u8
 凤凰资讯1(测试),https://epg.pw/stream/9b260f8687cdb45dc85cc84eb67827ec46c13fd6644d1976a408a283699f3f7d.ctv#http://home.111818.xyz:8888/udp/239.76.253.135:9000
 凤凰资讯2,https://epg.pw/stream/37e45dc981dca776ecb0e0d0bb114be671670900e9efd05f790bf111f638dde8.m3u8
 凤凰资讯3,https://ytm2.yuanhsing.cf/ctitv.m3u8
