@@ -1,5 +1,5 @@
 UMRTV,#genre#
-无线新闻1,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-577ce31f-52bb-4662-a900-5f426c66ffad.m3u8?by=yeslivetv_com
+无线新闻1,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 无线新闻2,https://tvp22.sky4k.top/index1.php
 无线新闻3,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻4,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-754e822c-2d75-4f2b-a34d-d39a896f1f9d.m3u8
@@ -8,7 +8,7 @@ UMRTV,#genre#
 凤凰香港1,http://113.117.74.20:8081/hls/38/index.m3u8
 凤凰香港2,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 凤凰香港3,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-20c60f9d-309f-4705-8f2f-5d0db8ee7fbc.m3u8
-凤凰香港4,http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+凤凰香港4,https://epg.pw/stream/8aa4301596dada4db1a6c94086183a8b733c3ade2254e0bbf1130a576faac531.m3u8
 凤凰资讯HD1,http://103.112.191.9:880/LAOSAT1068.m3u8
 凤凰资讯HD2,http://r.jdshipin.com/0Rp07
 凤凰资讯HD3,https://epg.pw/stream/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d6518982ef.m3u8
