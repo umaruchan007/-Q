@@ -5,7 +5,7 @@ UMRTV,#genre#
 无线新闻4,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-754e822c-2d75-4f2b-a34d-d39a896f1f9d.m3u8
 有线新闻直播1,https://api.leonardpark.dev/live/icable/110
 有线新闻直播2,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
-凤凰香港1,http://113.117.74.20:8081/hls/38/index.m3u8
+凤凰香港1,https://epg.pw/stream/b22976296a71b1a2a7fd440ea009e5501378f1e8193bcc7edaa6ad5a31a3e5e6.ctv
 凤凰香港2,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 凤凰香港3,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-20c60f9d-309f-4705-8f2f-5d0db8ee7fbc.m3u8
 凤凰香港4,https://epg.pw/stream/8aa4301596dada4db1a6c94086183a8b733c3ade2254e0bbf1130a576faac531.m3u8
