@@ -1,8 +1,6 @@
 UMRTV,#genre#
 无线新闻1(测试),http://sc2022.stream-link.org/tv2306.php?id=h04
-无线新闻2(测试),
-http://sc2022.stream-link.org/tv2306.php?id=h06
-
+无线新闻2(测试),http://sc2022.stream-link.org/tv2306.php?id=h06
 无线新闻3,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 无线新闻4,https://tvp22.sky4k.top/index1.php
 无线新闻5,http://live.cooltv.top/tv/tvb.php?id=0
@@ -17,8 +15,7 @@ HOTV-2(测试),http://sc2022.stream-link.org/tv2306.php?id=h13
 澳门资讯1,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
 澳门资讯2,http://61.244.22.4/ch5/_definst_/info_ch5.live/playlist.m3u8
 澳门资讯3,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-TVBS-亚洲1(测试),
-http://sc2022.stream-link.org/tv2306.php?id=t16
+TVBS-亚洲1(测试),http://sc2022.stream-link.org/tv2306.php?id=t16
 TVBS-亚洲2(港IP),http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS-亚洲3(港IP),http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS-亚洲4(港IP),http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
