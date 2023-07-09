@@ -1,9 +1,11 @@
 UMRTV,#genre#
-无线新闻1,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+无线新闻1,https://epg.pw/stream/582877ce437135bd251fc686d7a4392d58b1d78b5f7f3eb540577f097227f5c9.ctv
 无线新闻2,https://tvp22.sky4k.top/index1.php
 无线新闻3,http://live.cooltv.top/tv/tvb.php?id=0
-HOYTV,http://51.89.21.73:40869
-凤凰香港,http://sas.fenbu.net/stream/fhws.php?id=fhhk
+无线新闻4,https://epg.pw/stream/c4ed6ad793bc69002f22845063b4b073c5aff6ded2f6cd72c47a6c890de4ad45.ctv
+凤凰香港1,http://sas.fenbu.net/stream/fhws.php?id=fhhk
+凤凰香港2,https://epg.pw/stream/c0b1773a9a281a440df4b16e485f1b0540c4d8a5068db0ba6de4a8faa2d89927.m3u8
+凤凰香港3,https://epg.pw/stream/3df8ed8e720d3577d838e891c58787bf2961175fa5f64522848d7cd804629d92.m3u8
 凤凰资讯HD1,http://47.99.156.221/stream/fhws.php?id=fhzx
 凤凰资讯HD2,http://103.112.191.9:880/LAOSAT1068.m3u8
 凤凰资讯HD3,http://r.jdshipin.com/0Rp07
