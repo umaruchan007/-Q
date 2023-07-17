@@ -1,10 +1,10 @@
 UMRTV,#genre#
-无线新闻1,https://epg.pw/stream/582877ce437135bd251fc686d7a4392d58b1d78b5f7f3eb540577f097227f5c9.ctv
+无线新闻1,https://epg.pw/stream/fad64d20fa733af55491c2eaa8d7590561a5d7eea0940e687cac430bb3213316.ctv
 无线新闻2,https://tvp22.sky4k.top/index1.php
 无线新闻3,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻4,https://epg.pw/stream/c4ed6ad793bc69002f22845063b4b073c5aff6ded2f6cd72c47a6c890de4ad45.ctv
 凤凰香港1,http://sas.fenbu.net/stream/fhws.php?id=fhhk
-凤凰香港2,https://epg.pw/stream/c0b1773a9a281a440df4b16e485f1b0540c4d8a5068db0ba6de4a8faa2d89927.m3u8
+凤凰香港2,https://epg.pw/stream/a4d5e9c49b595b4c5672bd4cc80785c6c6691c73c8d6e0f335aa3e85cb146770.m3u8
 凤凰香港3,https://epg.pw/stream/9d2539fea20fcfa977de238f8321fbcaa277e00666d4b279b2f4a23d595f973d.ctv
 凤凰资讯HD1,http://47.99.156.221/stream/fhws.php?id=fhzx
 凤凰资讯HD2,http://103.112.191.9:880/LAOSAT1068.m3u8
