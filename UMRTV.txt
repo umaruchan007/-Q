@@ -1,9 +1,10 @@
 UMRTV,#genre#
-无线新闻1a,http://172.96.250.37:83/hk.php?id=0 
-无线新闻1b,http://172.96.250.37:83/hk.php?id=1
-无线新闻2,http://live.cooltv.top/tv/tvb.php?id=0&hq
-无线新闻3,http://sc2022.stream-link.org/tv2306.php?id=h04
-无线新闻4,https://epg.pw/stream/19d1cd44fca23238190d5ada7b08552382bf391f77d6b4348f3e3ae56afe7c9f.m3u8
+无线新闻1,https://dispatchnew.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&token=c0vzuc7wqkzk
+无线新闻2a,http://172.96.250.37:83/hk.php?id=0
+无线新闻2b,http://172.96.250.37:83/hk.php?id=1
+无线新闻3,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线新闻4,http://sc2022.stream-link.org/tv2306.php?id=h04
+无线新闻5,https://epg.pw/stream/19d1cd44fca23238190d5ada7b08552382bf391f77d6b4348f3e3ae56afe7c9f.m3u8
 凤凰资讯HD,https://epg.pw/stream/679055deefd5d79a19efa07d9c82b326995f4f568f98f2917f444a458af574e1.m3u8
 凤凰资讯1,http://qspyx.7766.org:9999/tsfile/live/1105_1.m3u8
 凤凰资讯2,http://udnhls.skilldns.com/fhzx.m3u8
